@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👨🏽‍💻 Lucas Sergio
 
-<!--
-**lucaskkerg/lucaskkerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cibersegurança | Web design | Hardware**
 
-Here are some ideas to get you started:
+Me chamo Lucas Sergio de Oliveira, tenho 23 anos e sou natural do estado de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em informática. Atualmente, estou cursando Engenharia da computação na UAM. Sou apaixonado por tecnologia e compartilho meu conhecimento atualmente dando aulas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=lucaskkerg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
